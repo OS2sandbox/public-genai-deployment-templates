@@ -1,3 +1,6 @@
+# Charts
+
+```
 public-genai-helm/
 ├── charts/
 │   └── frontend/ ← Example chart folder name
@@ -9,3 +12,4 @@ public-genai-helm/
 │   ├── index.html  ← Webside til deling af chartet
 │   └── index.yaml  ← Helm index-fil genereret med `helm repo index`
 ├── README.md
+``` 
